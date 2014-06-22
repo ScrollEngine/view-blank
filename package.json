@@ -1,0 +1,30 @@
+{
+  "name": "scroll-view-blank",
+  "version": "0.1.0-alpha",
+  "description": "Viewless view layer for the Scroll Engine",
+  "main": "view.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scroll Team",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ScrollEngine/view-blank.git"
+  },
+  "keywords": [
+    "scroll",
+    "view",
+    "layer",
+    "views",
+    "theme",
+    "ux",
+    "ui"
+  ],
+  "bugs": {
+    "url": "https://github.com/ScrollEngine/view-blank/issues"
+  },
+  "homepage": "https://github.com/ScrollEngine/view-blank"
+}
